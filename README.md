@@ -1,5 +1,11 @@
 <div align="center">
 
+![DevOps Banner](devops-banner.png)
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Hari 👋
 
 ### Aspiring DevOps Engineer | AWS Cloud | CI/CD | Automation
