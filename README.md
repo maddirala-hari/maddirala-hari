@@ -99,6 +99,7 @@ I focus on practical implementation and documenting what I learn through project
 ## 📫 Connect
 
 - **GitHub:** [maddirala-hari](https://github.com/maddirala-hari)
+- **Linkedin:** [maddirala hariprasad Reddy](https://www.linkedin.com/in/maddiralahari)
 - **Location:** Bengaluru, India
 
 ---
