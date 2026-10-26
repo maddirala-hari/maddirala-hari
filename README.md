@@ -38,8 +38,6 @@ I'm an aspiring DevOps Engineer based in Bengaluru, India, focused on building p
 - **Company:** Venus Universal Limited
 - **Professional background:** Civil Engineering, alongside practical DevOps learning and project work
 
-*Please ensure the company name above reflects your actual employment and add your official job title and employment dates in your GitHub profile settings if applicable.*
-
 ## 🛠️ Technical Skills
 
 | Category | Tools and Technologies |
